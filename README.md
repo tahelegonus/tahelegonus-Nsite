@@ -6,11 +6,3 @@ is one of my favorite things ever, it really harnesses your creativity. In these
 theme and layout, and all the side dishes that come with the program interms of what the user will see. 
 I want to make it an experience and immersive, but right now, i will keep it simple for the first version
 of TAHELEGONUS's desgin! 
-
-
-  ______      __         __                                 
- /_  __/___ _/ /_  ___  / /__  ____ _____  ____  __  _______
-  / / / __ `/ __ \/ _ \/ / _ \/ __ `/ __ \/ __ \/ / / / ___/
- / / / /_/ / / / /  __/ /  __/ /_/ / /_/ / / / / /_/ (__  ) 
-/_/  \__,_/_/ /_/\___/_/\___/\__, /\____/_/ /_/\__,_/____/  
-                            /____/                          
