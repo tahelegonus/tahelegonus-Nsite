@@ -1,0 +1,19 @@
+# As i have been creating my forensic program, i have realized that i might need to change up the structure a tad. Not that is absolutely terrible
+# but it could be improved for effiecency purposes, and just showing the information in a way that is confusing. So i am going to make an outline now
+# so that in the future im not really sure how im supposed to display the information when it loads in the terminal. I have been doing some research, 
+# and have come across some resources that will be helpful in this process for UI/UX design for my program! By the end of this page, i hope to have a
+#wireframe attached, and a general idea of where i will start! 
+
+#From my last file for my program, it was really offcentered, and it wasny very practical. I developed a really cute ASCII bear becasue im calling the
+# forensic engine "teddy bear" becasue it combines pandas, python, and sql, and some other things i cant remember right now! I thought it was a fun play
+# on words. Nonetheless... i think for practical purposes, and for my program to seem more "serious" i should probablly implement a desgin i know is familar
+# to those who use programs like tahelegonus. Allthough i will miss the little bear, its all in good favor. 
+
+
+#It may be a tad much now, but in the future, i would like the program to be very malleable, responsive, and the format of the information can be displayed depending
+#on the users preference. For instance, i am someone who does not keep windows and pages fully open. Even if i have another monitor, it is much easier for me
+# to have multiple pages and browsers open so i can see everything. Therefore, most of the time, when im using perhaps terminal/command prompt or vscode, i 
+# will more than likely have the screen very ittybitty, depending on whatver tasks i have at hand. So, for people like me that would rather not have the terminal
+#take up the entirety of their screen, i will desgin tahelegonus to apply different designs that the user can choose from. I will get there eventually! but
+# today, i will focous on the basics of the ui, making everything very easy to see and use for my purpose, and
+# the users purposeses! 
